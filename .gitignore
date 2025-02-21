@@ -1,0 +1,6 @@
+# Ignorar pastas de bibliotecas e arquivos gerados
+/lib/
+/test/
+*.class
+*.jar
+*.zip
